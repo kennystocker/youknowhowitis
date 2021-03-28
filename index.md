@@ -1,4 +1,4 @@
-## Welcome to You KNow How it Is
+## Welcome to You Know How it Is
 
 - [The Piano](/piano)
 - [Bad Coffee](/bad-coffee)
