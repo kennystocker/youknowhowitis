@@ -2,6 +2,6 @@
 
 - [The Piano](/piano)
 - [Bad Coffee](/bad-coffee)
-- [Congestion Integestion](/congestion-integestion)
+- [Congestion Indigestion](/congestion-indigestion)
 
 
